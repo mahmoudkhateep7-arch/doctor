@@ -1,0 +1,22 @@
+@import 'tailwindcss';
+
+
+* {
+  user-select: none;
+}
+
+/* r\src\images\8a4509fc-0b40-4e6b-9824-bab6685b2df1.png */
+.lkl {
+  background-image: url('./images/shape1.1112f1ac0dc18e511a91.png');
+  background-repeat: no-repeat;
+  background-position-x: 0;
+  background-position-y: 100%;
+  background-size: 100%;
+
+
+}
+
+.lkl2 {
+  background-image: url('./components/l.png');
+
+}
